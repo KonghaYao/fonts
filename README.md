@@ -2,6 +2,8 @@
 
 # Google Fonts Files
 
+该项目用于在 src 目录提取 noto 字体的字形轮廓复杂度，详见 src。
+
 This project mainly contains the binary font files served by Google Fonts ([fonts.google.com](https://fonts.google.com))
 
 The top-level directories indicate the license of all files found within them.
